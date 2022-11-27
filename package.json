@@ -1,16 +1,16 @@
 {
-  "name": "react-template",
+  "name": "pokemon-type-tournament",
   "version": "1.0.0",
-  "description": "",
+  "description": "pokemon type tournament which puts every type against each other in a tournament style competition to determine wich typing is the best",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve",
     "build": "webpack --config webpack.config.js"
   },
   "keywords": [
-    "template",
-    "webpack",
-    "react"
+    "pokemon",
+    "tournament",
+    "type"
   ],
   "author": "Jeffrey van den Berg",
   "license": "ISC",
